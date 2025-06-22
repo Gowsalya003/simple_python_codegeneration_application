@@ -4,9 +4,9 @@
 A simple Python command-line tool that generates code snippets for tasks like finding factorial, Fibonacci numbers, and prime numbers in Python.
 
 ## Features
-- Factorial code (Python)
-- Fibonacci code (Python)
-- Prime check code (Python)
+- Factorial code (Python, Java)
+- Fibonacci code (Python, Java)
+- Prime check code (Python, Java)
 
 ## Usage
 1. Clone the repository:
