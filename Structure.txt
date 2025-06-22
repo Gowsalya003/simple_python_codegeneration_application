@@ -1,5 +1,5 @@
 code-generator/
-├── generate_code.py      
+├── main.py      
 ├── README.md           
 ├── requirements.txt     
 ├── .gitignore            
